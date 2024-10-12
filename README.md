@@ -32,6 +32,6 @@ This project should work on all modern web browsers, including **Chrome**, **Fir
 This project is licensed under the **MIT License**. You are free to modify and distribute the code as you see fit. See the `LICENSE` file for more details.
 
 ## Credits:
-This project was created by **[Your Name]**. Feel free to reach out for any questions or feedback.
+This project was created by **[Ibrahim Shedoh]**. Feel free to reach out for any questions or feedback.
 
 Enjoy playing Rock, Paper, Scissors!
